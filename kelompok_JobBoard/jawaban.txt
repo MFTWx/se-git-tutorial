@@ -1,0 +1,11 @@
+a. Apa yang terjadi saat poin 1 dilakukan? 
+
+Melakukan fork -> merupakan proses untuk membuat salinan dari repository yang ada (milik orang lain atau di akun yang berbeda) ke dalam repository milik kita (repository akun yang sedang dipakai untuk melakukan fork).
+
+b. Apa tujuan membuat branch baru pada poin 5 dan 6? 
+
+Tujuannya adalah membuat salinan baru dari branch sebelumnya. Fungsi dari branch yang telah dibuah adalah sebagai tempat pengembangan yang terpisah (mengubah sesuatu tanpa menggangu satu sama lain), tempat untuk bereksperimen tanpa membahayakan kode utama, mencegah kerusakan pada kode utama.
+
+c. File apa yang berubah setelah poin 6 selesai dilakukan?
+
+Jika membuat branch baru, maka tidak ada yang berubah kecuali adanya branch baru yang berisikan file yang sudah diedit/diganti dalam file atau branch sebelumnya. Tetapi, jika melakukan merge maka file biodata.txt yang tadinya hanya berisikan nama anggota saja akan berubah menjadi nama anggota - nim mereka pada branch add-nama-[nama kalian]. 
